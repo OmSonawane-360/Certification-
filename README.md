@@ -11,7 +11,7 @@ Each certificate highlights **skills, tools, programming languages, and librarie
 **Certification:** Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
 **Date:** Aug 14, 2025 | **Valid Until:** Aug 14, 2027  
 
-- 🧠 Knowledge Gained:  
+- 🧠 Knowledge Gained:   
   - **Oracle Cloud Infrastructure (OCI)** fundamentals  
   - AI & ML foundations with Cloud integration    
   - Core concepts: **Compute, Storage, Networking, Security**  
