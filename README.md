@@ -37,7 +37,6 @@ Each certificate highlights **skills, tools, programming languages, and librarie
   - **Data Preprocessing, Feature Engineering, Model Evaluation**  
   - End-to-end ML projects including predictive modeling & forecasting  
 
-- 🔑 **Keywords:** Machine Learning, AI, Data Science, Regression, Classification, Clustering, Forecasting, Neural Networks, Model Optimization  
 - 💻 **Languages & Libraries Learned:**  
   - **Python**  
   - **NumPy, Pandas** → Data analysis & manipulation  
@@ -59,7 +58,6 @@ Each certificate highlights **skills, tools, programming languages, and librarie
   - End-to-end product design: from **concept → wireframe → prototype**  
   - Basics of **Web/Mobile design workflows**  
 
-- 🔑 **Keywords:** UI/UX Design, Web Design, Mobile Design, Wireframing, Prototyping, Figma, Responsive Design, Design Thinking  
 - 💻 **Tools & Skills Learned:**  
   - **Figma** – Wireframes, Components, Prototypes  
   - **Adobe XD / Photoshop (basics)**  
