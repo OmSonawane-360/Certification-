@@ -18,7 +18,6 @@ Each certificate highlights **skills, tools, programming languages, and librarie
   - Managing **AI workloads on cloud platforms**  
   - Understanding **cloud governance & best practices**  
 
-- 🔑 **Keywords:** Cloud Computing, Oracle Cloud Infrastructure, AI Foundations, Cloud Security, Cloud Networking, Cloud Storage, AI on Cloud  
 - 💻 **Skills & Tools Learned:**  
   - **OCI Console & CLI**  
   - **AI Services on Cloud**  
