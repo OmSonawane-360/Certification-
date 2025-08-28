@@ -13,7 +13,7 @@ Each certificate highlights **skills, tools, programming languages, and librarie
 
 - 🧠 Knowledge Gained:  
   - **Oracle Cloud Infrastructure (OCI)** fundamentals  
-  - AI & ML foundations with Cloud integration  
+  - AI & ML foundations with Cloud integration   
   - Core concepts: **Compute, Storage, Networking, Security**  
   - Managing **AI workloads on cloud platforms**  
   - Understanding **cloud governance & best practices**  
