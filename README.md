@@ -9,7 +9,7 @@ Each certificate highlights **skills, tools, programming languages, and librarie
 
 ### 1. Oracle Certified Foundations Associate – Oracle University  
 **Certification:** Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
-**Date:** Aug 14, 2025 | **Valid Until:** Aug 14, 2027  
+**Date:** Aug 14, 2025 | **Valid Until:** Aug 14, 2027   
 
 - 🧠 Knowledge Gained:   
   - **Oracle Cloud Infrastructure (OCI)** fundamentals  
