@@ -12,7 +12,7 @@ Each certificate highlights **skills, tools, programming languages, and librarie
 **Date:** Aug 14, 2025 | **Valid Until:** Aug 14, 2027    
 
 - 🧠 Knowledge Gained:   
-  - **Oracle Cloud Infrastructure (OCI)** fundamentals   
+  - **Oracle Cloud Infrastructure (OCI)** fundamentals    
   - AI & ML foundations with Cloud integration     
   - Core concepts: **Compute, Storage, Networking, Security**  
   - Managing **AI workloads on cloud platforms**  
