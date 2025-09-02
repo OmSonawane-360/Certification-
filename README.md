@@ -26,7 +26,26 @@ Each certificate highlights **skills, tools, programming languages, and librarie
 
 ---
 
-### 2. Complete A.I. & Machine Learning, Data Science Bootcamp – Udemy  
+### 2. Data Analytics Job Simulation – Deloitte (via Forage)  
+**Certification:** Deloitte Data Analytics Job Simulation Certificate of Completion  
+**Date:** Sep 1, 2025  
+
+- 🧠 Knowledge Gained:  
+  - Practical **data analysis** techniques  
+  - Introduction to **forensic technology applications**  
+  - Hands-on experience with **analytics-driven problem solving**  
+  - Understanding how data insights support **business decision-making**  
+
+- 💻 **Skills & Tools Learned:**  
+  - **Data analysis workflows**  
+  - **Forensic technology fundamentals**  
+  - Applying analytics in **real-world business scenarios**  
+  - Exposure to **professional consulting practices**  
+
+
+---
+
+### 3. Complete A.I. & Machine Learning, Data Science Bootcamp – Udemy  
 **Instructors:** Andrei Neagoie, Daniel Bourke  
 **Date:** Aug 8, 2025 | **Duration:** 44 Hours  
 
@@ -47,7 +66,7 @@ Each certificate highlights **skills, tools, programming languages, and librarie
 
 ---
 
-### 3. Complete Web & Mobile Designer: UI/UX, Figma + More – Udemy  
+### 4. Complete Web & Mobile Designer: UI/UX, Figma + More – Udemy  
 **Instructors:** Andrei Neagoie, Daniel Schifano  
 **Date:** Feb 3, 2025 | **Duration:** 26 Hours  
 
@@ -64,6 +83,7 @@ Each certificate highlights **skills, tools, programming languages, and librarie
   - UX Research, Usability Testing, Accessibility Design  
 
 ---
+
 
 ## 🚀 Purpose of this Repository  
 - Maintain a **digital portfolio** of my certifications  
