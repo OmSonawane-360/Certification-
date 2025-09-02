@@ -5,7 +5,7 @@ Each certificate highlights **skills, tools, programming languages, and librarie
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications   
 
 ### 1. Oracle Certified Foundations Associate – Oracle University  
 **Certification:** Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
